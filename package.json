@@ -11,8 +11,8 @@
     "tabWidth": 2,
     "semi": false,
     "singleQuote": true,
-    "jsxSingleQuote": true,
-    "useTabs": false
+    "useTabs": false,
+    "arrowParens": "avoid"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
